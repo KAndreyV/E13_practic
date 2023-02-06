@@ -1,0 +1,2 @@
+document.write("Hello, webpack!!!!!! \n");
+//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoibWFpbi1wcm9kLmpzIiwibWFwcGluZ3MiOiJBQUFBQSxTQUFTQyxNQUFNIiwic291cmNlcyI6WyJ3ZWJwYWNrOi8vLy4vc3JjL2luZGV4LmpzIl0sInNvdXJjZXNDb250ZW50IjpbImRvY3VtZW50LndyaXRlKCdIZWxsbywgd2VicGFjayEhISEhISBcXG4nKTsiXSwibmFtZXMiOlsiZG9jdW1lbnQiLCJ3cml0ZSJdLCJzb3VyY2VSb290IjoiIn0=
